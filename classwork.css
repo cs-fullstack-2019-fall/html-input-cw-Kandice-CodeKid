@@ -1,0 +1,55 @@
+body {
+    background-color: dimgray;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#personal{
+    border:0.5px solid gray;
+
+}
+#Login{
+    background-color: slategray;
+    border: 3px solid purple;
+    float: left;
+    margin-right: 50px;
+    padding-right: 90px;
+    padding-left: 90px;
+
+}
+#SIGN{
+    background-color: white;
+    border: 2px dotted dimgray;
+    float: right;
+    padding-left: 65px;
+    padding-right: 65px;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border: 0.5px solid gray;
+    clear: both;
+}
+#email{
+
+}
+#password{
+
+}
+#password_repeat{
+
+}
+article{
+     background-color: white;
+     border: 0.5px solid gray;
+     text-align: center;
+     float: left;
+ }
+button{
+    background-color: green;
+    text-align: center;
+    color: white;
+    float: right;
+}
